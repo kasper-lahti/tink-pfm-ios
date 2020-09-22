@@ -1,3 +1,6 @@
+## Tink PFM 0.9.10
+- Support for Xcode 12
+
 ## Tink PFM 0.9.9
 - Latest transactions list on overview now refreshes when shown in some environments.
 
